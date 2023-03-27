@@ -1,0 +1,11 @@
+Custom Menu:
+-knapper ca 100x100  pixels
+-karakter ca 250x350 pixels
+-ikoner til items ca 100x100 pixels
+
+Hoved menu:
+-knapper ca 250x250 pixels
+
+I spillet:
+-knapper ca 100x100 pixels (dem man trykker for våben osv.)
+-karakter ca 40x70 pixels

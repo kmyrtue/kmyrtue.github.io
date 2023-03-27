@@ -1,0 +1,3 @@
+Map creation rules:
+-A map can be no larger than 2000*2000 pixel (preferably smaller)
+-The end of the map can go no lower than 5 pixels of the buttom on the map.
