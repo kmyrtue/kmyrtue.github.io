@@ -440,7 +440,7 @@ var drawCanvas = {'temp':null, 'draw':null, 'test':null, 'ui':null}; // temp and
 var sources = {
 	//Maps
     grasMap: 		'/Art/Maps/grasMap.png',
-    grasMapSky: 	'/Art/Maps/grasMapsky.png',
+    grasMapSky: 	'/Art/Maps/grasMapsky.png', 
 	anthilMap:		'/Art/Maps/anthilMap.png',
 	anthilMapSky:	'/Art/Maps/anthilMap_sky.png',
 	anthilMap2000:	'/Art/Maps/anthilMap2000.png',
